@@ -1,4 +1,4 @@
-# Guide: Creating a Linux Kernel Symbol Profile for Volatility 3 Using BTF
+# Creating a Linux Kernel Symbol Profile for Volatility 3 Using BTF
 
 This guide explains how to create a Linux kernel symbol profile for **Volatility 3** using **BTF (BPF Type Format)** information.
 
