@@ -1,4 +1,5 @@
-# Guides
+# Digital Forensics Scratchpad
+My personal notes and guides for digital forensics and investigative techniques.
 
 ## Memory Forensics
 
